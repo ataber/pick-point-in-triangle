@@ -1,6 +1,6 @@
 {
   "name": "pick-point-in-triangle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pick a random point in a triangle",
   "main": "index.js",
   "scripts": {
